@@ -1,0 +1,25 @@
+input 0 < int > 23
+generate half pyramid with loops
+(# integer = user input)
+(space integer = 23 - user input)
+align bottom
+align left
+
+  ##
+ ###
+#### 
+
+height 3 
+2 space, 2 hash
+1 space, 3 hash
+0 space, 4 hash
+   
+   ##
+  ###
+ ####
+#####
+
+height 4 
+2 space, 2 hash
+1 space, 3 hash
+0 space, 4 hash

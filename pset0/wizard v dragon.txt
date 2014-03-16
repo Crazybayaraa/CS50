@@ -1,0 +1,10 @@
+dragon flies randomly
+spacebar triggers firebreath
+firebreath lasts 5 seconds
+after firebreath dragon runs from wizard for 10 seconds
+
+wizard moves left and right
+wizard fires lightning bolts
+5 lightning bolts kill dragon
+
+dragon hp
